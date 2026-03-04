@@ -1,3 +1,9 @@
-Caso: Negocio familiar
+Caso: Negocio familiar 
 
-Recientemente, una familia decidió poner una tienda de abarrotes
+Una familia recientemente decidió poner su propia tienda de abarrotes en la planta baja de su casa. 
+
+|Tecnología|Información|Datos|Procesos|Persona|
+|----------|-----------|-----|--------|-------|
+|Computadora|Reportes|Productos mas solicitados|Administrador|
+|Máquina registradora|                |Productos mas pedidos|Registro de venta|Supervisor
+|Lector de código de barras|
