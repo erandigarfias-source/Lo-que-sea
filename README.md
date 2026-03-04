@@ -4,7 +4,7 @@ Una familia recientemente decidió poner su propia tienda de abarrotes en la pla
 
 |Tecnología|Información|Datos|Procesos|Persona|
 |----------|-----------|-----|--------|-------|
-|Computadora|Reportes|Productos mas solicitados|ay|Administrador|
+|Computadora|Reportes|Productos mas solicitados|Facturas|Administrador|
 |Máquina registradora|lista de productos|Productos mas pedidos|Registro de venta|Supervisor
 |Lector de código de barras|código de los productos|productos disponibles|verificación de seguridad|Cliente|
 |Impresora de facturas|  |productos agotados|Mantenimiento|    |
