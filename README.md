@@ -6,4 +6,5 @@ Una familia recientemente decidió poner su propia tienda de abarrotes en la pla
 |----------|-----------|-----|--------|-------|
 |Computadora|Reportes|Productos mas solicitados|Administrador|
 |Máquina registradora|                |Productos mas pedidos|Registro de venta|Supervisor
-|Lector de código de barras|
+|Lector de código de barras|      |        |        |Cliente|
+|Impresora de facturas|   |   |    |
